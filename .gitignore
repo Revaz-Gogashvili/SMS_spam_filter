@@ -6,8 +6,7 @@ checkpoint-*/
 runs/
 
 # Ignore the data if it's large
-spam.csv
-error_analysis_improved.csv
+SMSSpamCollection
 
 # Python environment
 venv/

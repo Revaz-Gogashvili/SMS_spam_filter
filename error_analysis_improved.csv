@@ -1,0 +1,10 @@
+label_text,text,label,clean_text,metadata,predicted
+spam,ROMCAPspam Everyone around should be responding well to your presence since you are so warm and outgoing. You are bringing in a real breath of sunshine.,1,ROMCAPspam Everyone around should be responding well to your presence since you are so warm and outgoing. You are bringing in a real breath of sunshine.,"[0.304, 0.05228758169934641, 0.0]",0
+ham,MY NO. IN LUTON 0125698789 RING ME IF UR AROUND! H*,0,MY NO. IN LUTON oi2s698t89 RING ME IF UR AROUNDi H*,"[0.102, 0.5384615384615384, 0.019230769230769232]",1
+ham,"We have sent JD for Customer Service cum Accounts Executive to ur mail id, For details contact us",0,"We have sent JD for Customer Service cum Accounts Executive to ur mail id, For details contact us","[0.194, 0.08163265306122448, 0.0]",1
+ham,Let Ur Heart Be Ur Compass Ur Mind Ur Map Ur Soul Ur Guide And U Will Never loose in world....gnun - Sent via WAY2SMS.COM,0,Let Ur Heart Be Ur Compass Ur Mind Ur Map Ur Soul Ur Guide And U Will Never loose in world....gnun - Sent via WAY2SMS.COM,"[0.242, 0.22950819672131148, 0.0]",1
+spam,"Do you realize that in about 40 years, we'll have thousands of old ladies running around with tattoos?",1,"Do you realize that in about ao years, we'll have thousands of old ladies running around with tattoos?","[0.204, 0.009708737864077669, 0.009708737864077669]",0
+ham,We are pleased to inform that your application for Airtel Broadband is processed successfully. Your installation will happen within 3 days.,0,We are pleased to inform that your application for Airtel Broadband is processed successfully. Your installation will happen within e days.,"[0.278, 0.02857142857142857, 0.0]",1
+ham,staff.science.nus.edu.sg/~phyhcmk/teaching/pc1323,0,staff.science.nus.edu.sg/~phyhcmk/teaching/pcie2e,"[0.098, 0.0, 0.0]",1
+spam,RCT' THNQ Adrian for U text. Rgds Vatian,1,RCT' THNQ Adrian for U text. Rgds Vatian,"[0.08, 0.2682926829268293, 0.0]",0
+spam,For sale - arsenal dartboard. Good condition but no doubles or trebles!,1,For sale - arsenal dartboard. Good condition but no doubles or treblesi,"[0.142, 0.027777777777777776, 0.013888888888888888]",0
