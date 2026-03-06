@@ -92,7 +92,7 @@ class HybridXLMR(nn.Module):
 
 ### Final Results & Forensic Audit
 * Comparative Metrics
-* 
+  
 | Metric | Baseline (TF-IDF) | Initial XLM-R | Improved Hybrid |
 |:---------------|:---------|:-------------|:----------------|
 | Total Errors   | 18       | 12           | 9               |
